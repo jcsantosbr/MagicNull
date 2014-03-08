@@ -1,4 +1,4 @@
 MagicNull
 =========
 
-Small project intended to easy the work with null values in Java
+Small project intended to ease the work with null values in Java
